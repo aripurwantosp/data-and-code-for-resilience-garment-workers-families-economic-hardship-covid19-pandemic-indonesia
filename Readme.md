@@ -36,7 +36,7 @@ populations like garment workers to protect them from future crises.
 
 | Filename                                                                                               | Description                                                                   |
 |-----------------------------------------|-------------------------------|
-| Readme.md [Readme.html]                                                                                | Information about this repository.                                            |
+| Readme.md                                                                                | Information about this repository.                                            |
 | data-&-code-for-resilience-garment-workers-families-economic-hardship-covid19-pandemic-indonesia.Rproj | .Rproj file, open project in RStudio.                                         |
 | data\\                                                                                                 | Folder with data for modeling multinomial logistic regression in .rds format. |
 | figures\\                                                                                              | Folder which contain plotted figures in .png format.                          |
