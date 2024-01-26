@@ -6,7 +6,7 @@
 through a mixed-methods Approach: Surviving the economic hardship during
 the COVID-19 Pandemic in Indonesia
 
-**Authors**: Andhika Aji Baskoro(https://orcid.org/0000-0003-4865-2449), Puguh Prasetyoputra(https://orcid.org/0000-0001-5494-7003), !Luh Kitty Katherina(https://orcid.org/0000-0002-5272-7151), Ari Purwanto Sarwo Prasojo(https://orcid.org/0000-0002-4862-5523), Ardanareswari Ayu Pitaloka(https://orcid.org/0000-0002-3903-6209)
+**Authors**: [Andhika Aji Baskoro](https://orcid.org/0000-0003-4865-2449), [Puguh Prasetyoputra](https://orcid.org/0000-0001-5494-7003), [Luh Kitty Katherina](https://orcid.org/0000-0002-5272-7151), [Ari Purwanto Sarwo Prasojo](https://orcid.org/0000-0002-4862-5523), [Ardanareswari Ayu Pitaloka](https://orcid.org/0000-0002-3903-6209)
 
 **Authors affiliation**: Research Center for Population, National Research and Innovation Agency (BRIN), Jl. Jend. Gatot Subroto Kav. 10, Jakarta Selatan 12710, Indonesia
 
